@@ -1,0 +1,16 @@
+D:\simplilearn\day-18\Assignments\Classes\Classes\bin\Debug\Classes.exe.config
+D:\simplilearn\day-18\Assignments\Classes\Classes\bin\Debug\Classes.exe
+D:\simplilearn\day-18\Assignments\Classes\Classes\bin\Debug\Classes.pdb
+D:\simplilearn\day-18\Assignments\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\simplilearn\day-18\Assignments\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-18\Assignments\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-18\Assignments\Classes\Classes\obj\Debug\Classes.exe
+D:\simplilearn\day-18\Assignments\Classes\Classes\obj\Debug\Classes.pdb
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\bin\Debug\Classes.exe.config
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\bin\Debug\Classes.exe
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\bin\Debug\Classes.pdb
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\obj\Debug\Classes.exe
+D:\simplilearn\AssistedProjects\section-10\Classes\Classes\obj\Debug\Classes.pdb

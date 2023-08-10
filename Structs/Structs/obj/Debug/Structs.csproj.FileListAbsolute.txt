@@ -1,0 +1,8 @@
+D:\simplilearn\day-18\Assignments\Structs\Structs\bin\Debug\Structs.exe.config
+D:\simplilearn\day-18\Assignments\Structs\Structs\bin\Debug\Structs.exe
+D:\simplilearn\day-18\Assignments\Structs\Structs\bin\Debug\Structs.pdb
+D:\simplilearn\day-18\Assignments\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+D:\simplilearn\day-18\Assignments\Structs\Structs\obj\Debug\Structs.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-18\Assignments\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-18\Assignments\Structs\Structs\obj\Debug\Structs.exe
+D:\simplilearn\day-18\Assignments\Structs\Structs\obj\Debug\Structs.pdb

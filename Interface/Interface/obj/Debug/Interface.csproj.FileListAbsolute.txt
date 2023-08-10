@@ -1,0 +1,8 @@
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\bin\Debug\Interface.exe.config
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\bin\Debug\Interface.exe
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\bin\Debug\Interface.pdb
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\obj\Debug\Interface.exe
+D:\simplilearn\AssistedProjects\section-10\Interface\Interface\obj\Debug\Interface.pdb
